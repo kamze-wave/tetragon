@@ -85,7 +85,7 @@ with the previous example.
 
 ## Return args filter
 
-Arguments filters can be specified under the `returnMatchArgs` field and
+Arguments filters can be specified under the `matchReturnArgs` field and
 provide filtering based on the value of the function return value. It allows
 you to filter on the return value, thus success, error or value returned by a
 kernel call.
